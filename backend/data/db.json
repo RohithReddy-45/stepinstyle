@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "title": "Fusion Evo Golf Shoe",
+    "price": 79.99,
+    "imageUrl": "https://m.media-amazon.com/images/I/81xXDjojYKS._AC_UX575_.jpg",
+    "company": "Puma",
+    "stars": 4.5,
+    "reviews": 120,
+    "soldOut": false
+  },
+  {
+    "id": 2,
+    "title": "Pacer Future Doubleknit",
+    "price": 54.95,
+    "imageUrl": "https://m.media-amazon.com/images/I/7128-af7joL._AC_UY575_.jpg",
+    "company": "Puma",
+    "stars": 4.2,
+    "reviews": 90,
+    "soldOut": false
+  },
+  {
+    "id": 3,
+    "title": "Roma Basic Sneaker",
+    "price": 109.99,
+    "imageUrl": "https://m.media-amazon.com/images/I/61TM6Q9dvxL._AC_UX575_.jpg",
+    "company": "Puma",
+    "stars": 4.8,
+    "reviews": 150,
+    "soldOut": false
+  },
+  {
+    "id": 4,
+    "title": "Unisex-Adult Super",
+    "price": 39.99,
+    "imageUrl": "https://m.media-amazon.com/images/I/71jeoX0rMBL._AC_UX575_.jpg",
+    "company": "Puma",
+    "stars": 4.0,
+    "reviews": 80,
+    "soldOut": false
+  },
+  {
+    "id": 5,
+    "title": "Pacer Future Sneaker",
+    "price": 89.95,
+    "imageUrl": "https://m.media-amazon.com/images/I/71E75yRwCDL._AC_UY575_.jpg",
+    "company": "Puma",
+    "stars": 4.3,
+    "reviews": 110,
+    "soldOut": false
+  },
+  {
+    "id": 6,
+    "title": "Puma Black-Oce",
+    "price": 49.99,
+    "imageUrl": "https://m.media-amazon.com/images/I/81xXDjojYKS._AC_UX575_.jpg",
+    "company": "Puma",
+    "stars": 4.1,
+    "reviews": 95,
+    "soldOut": true
+  },
+  {
+    "id": 7,
+    "title": "Men's Sneaker",
+    "price": 109.99,
+    "imageUrl": "https://m.media-amazon.com/images/I/61-cBsLhJHL._AC_UY695_.jpg",
+    "company": "Nike",
+    "stars": 4.6,
+    "reviews": 130,
+    "soldOut": false
+  },
+  {
+    "id": 8,
+    "title": "Nike Zoom Freak",
+    "price": 69.95,
+    "imageUrl": "https://m.media-amazon.com/images/I/71VaQ+V6XnL._AC_UY695_.jpg",
+    "company": "Nike",
+    "stars": 4.4,
+    "reviews": 105,
+    "soldOut": true
+  },
+  {
+    "id": 9,
+    "title": "Loafer Flats",
+    "price": 79.99,
+    "imageUrl": "https://m.media-amazon.com/images/I/61V9APfz97L._AC_UY695_.jpg",
+    "company": "Vans",
+    "stars": 4.5,
+    "reviews": 125,
+    "soldOut": false
+  },
+  {
+    "id": 10,
+    "title": "Knit Ballet Flat",
+    "price": 59.99,
+    "imageUrl": "https://m.media-amazon.com/images/I/71zKuNICJAL._AC_UX625_.jpg",
+    "company": "Adidas",
+    "stars": 4.2,
+    "reviews": 88,
+    "soldOut": false
+  },
+  {
+    "id": 11,
+    "title": "Flat Slip On Pumps",
+    "price": 74.99,
+    "imageUrl": "https://m.media-amazon.com/images/I/41M54ztS6IL._AC_SY625._SX._UX._SY._UY_.jpg",
+    "company": "Vans",
+    "stars": 4.7,
+    "reviews": 140,
+    "soldOut": false
+  },
+  {
+    "id": 12,
+    "title": "Running Shoe",
+    "price": 99.99,
+    "imageUrl": "https://m.media-amazon.com/images/I/71oEKkghg-L._AC_UX575_.jpg",
+    "company": "Adidas",
+    "stars": 4.9,
+    "reviews": 160,
+    "soldOut": true
+  },
+  {
+    "id": 13,
+    "title": "Nike Waffle One Sneaker",
+    "price": 89.95,
+    "imageUrl": "https://m.media-amazon.com/images/I/51+P9uAvb1L._AC_UY695_.jpg",
+    "company": "Nike",
+    "stars": 4.8,
+    "reviews": 155,
+    "soldOut": false
+  },
+  {
+    "id": 14,
+    "title": "Nike Air Vapormax Plus",
+    "price": 64.99,
+    "imageUrl": "https://m.media-amazon.com/images/I/519MRhRKGFL._AC_UX575_.jpg",
+    "company": "Nike",
+    "stars": 4.4,
+    "reviews": 110,
+    "soldOut": false
+  },
+  {
+    "id": 15,
+    "title": "Nike Air Monarch IV",
+    "price": 29.99,
+    "imageUrl": "https://m.media-amazon.com/images/I/6125yAfsJKL._AC_UX575_.jpg",
+    "company": "Nike",
+    "stars": 3.9,
+    "reviews": 70,
+    "soldOut": false
+  }
+]
