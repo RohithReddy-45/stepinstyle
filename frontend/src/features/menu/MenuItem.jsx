@@ -4,6 +4,7 @@ import DeleteItem from '../cart/DeleteItem';
 import { useDispatch, useSelector } from 'react-redux';
 import { addItem, getCurrentQuantityById } from '../cart/cartSlice';
 import UpdateItemQuantity from '../cart/UpdateItemQuantity';
+import { memo } from 'react';
 
 function MenuItem({ product }) {
   const dispatch = useDispatch();
@@ -29,6 +30,7 @@ function MenuItem({ product }) {
     <li className="flex flex-col gap-4 rounded-lg bg-secondary px-5 py-3">
       <img
         src={imageUrl}
+        loading="lazy"
         alt={title}
         className={`h-44 rounded-md ${soldOut ? 'opacity-70 grayscale' : ''}`}
       />
@@ -73,4 +75,4 @@ function MenuItem({ product }) {
   );
 }
 
-export default MenuItem;
+export default memo(MenuItem);
